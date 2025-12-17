@@ -1,0 +1,56 @@
+.icerik1{
+    opacity: 1;
+}
+.icerik1:hover{
+    opacity: 0.9;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    font-size: 18px;
+}
+.icerik2 img{
+    opacity: 1;
+}
+.icerik2 img:hover{
+    opacity: 0.9;
+    width:85%;
+}
+.oda_gorselleri a img {
+    border-radius: 0px;
+}
+.oda_gorselleri a:hover img {
+    border-radius: 25px;
+}
+.acente_gorselleri a img:hover {
+    width: 120px;
+    height: auto;
+}
+.kampanya_gorselleri a img{
+    border-radius: 0px;
+}
+.kampanya_gorselleri a img:hover{
+    border-radius: 25px;
+}
+.whatsapp_ikon {
+    opacity: 1;
+}
+
+.whatsapp_ikon:hover {
+    opacity: 0.8;
+}
+.instagram_ikon {
+    opacity: 1;
+}
+
+.instagram_ikon:hover {
+    opacity: 0.8;
+}
+.facebook_ikon {
+    opacity: 1;
+}
+
+.facebook_ikon:hover {
+    opacity: 0.8;
+}
